@@ -6,16 +6,22 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "ajv": "^7.2.4",
+    "bootstrap": "^5.3.3",
+    "eslint-plugin-react-hooks": "^5.1.0-rc-8971381549-20240625",
     "react": "^18.3.1",
+    "react-bootstrap": "^2.10.3",
+    "react-bootstrap-icons": "^1.11.4",
     "react-dom": "^18.3.1",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "dev": "react-scripts start"
   },
   "eslintConfig": {
     "extends": [
